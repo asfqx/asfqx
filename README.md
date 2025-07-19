@@ -27,8 +27,16 @@ Hi! I'm a backend developer focused on building **asynchronous Python services**
 - **Logging** – detailed and structured logs for debugging and monitoring
 
 ### 📄 Formats & Integrations
-- **OAuth2 ** – authentication and data access with external services
+- **OAuth2** – authentication and data access with external services
 - **openpyxl** – Excel export with formatted resume data
+
+### 🖥️ Frontend
+
+- **HTML5** — semantic page markup.
+- **CSS3** — styling, responsive layout, flexbox for building grids.
+- **Flexbox** — used for building flexible and adaptive layouts, aligning and distributing space between elements.
+- **BEM (Block-Element-Modifier)** — a CSS methodology that ensures code readability, scalability, and reusability.
+- **Normalize.css** — CSS reset and normalization for cross-browser compatibility.
 
 ---
 
@@ -46,15 +54,6 @@ REST + WebSocket service simulating a metro transportation network:
 - OAuth2 token refresh management
 - Exports filtered resumes to Excel
 - Built with aiogram + httpx + PostgreSQL + Docker
-
----
-
-## 🛠️ Development Principles
-
-- Asynchronous and scalable architecture (`asyncio`-based)
-- Modular codebase using clear separation of concerns
-- Production-ready practices with logging, environment configs, and Docker
-- Linting and formatting with **Ruff** for clean, maintainable code
 
 ---
 
