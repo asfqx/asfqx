@@ -37,7 +37,8 @@ Hi! I'm a backend developer focused on building **asynchronous Python services**
 - **Flexbox** — used for building flexible and adaptive layouts, aligning and distributing space between elements.
 - **BEM (Block-Element-Modifier)** — a CSS methodology that ensures code readability, scalability, and reusability.
 - **Normalize.css** — CSS reset and normalization for cross-browser compatibility.
-
+- **JavaScript**
+  
 ---
 
 ## 🚀 Featured Projects
