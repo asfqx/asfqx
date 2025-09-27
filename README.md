@@ -42,8 +42,7 @@ I'm a backend developer focused on building **asynchronous Python services**, **
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asfqx&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfqx&layout=compact&theme=dark&hide=C++,C,Makefile)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfqx&layout=compact&theme=dark&hide=C%2B%2B,C,Makefile)
 
 ---
 
