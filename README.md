@@ -8,11 +8,12 @@ I'm a backend developer focused on building **asynchronous Python services**, **
 
 ### 🖥️ Backend & API
 - **Python 3.10+**
-- **FastAPI** – high-performance REST and WebSocket APIs
-- **Aiogram** – Telegram bots with FSM (Finite State Machine) support
-- **httpx** – async HTTP requests to external APIs
-- **Pydantic / pydantic-settings** – data validation and environment configuration
-- **JWT (JSON Web Tokens)** – secure authentication and access control
+![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-0A66C2?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🗄️ Databases & Caching
 - **PostgreSQL** – relational database (used with async access)
