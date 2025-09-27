@@ -29,7 +29,6 @@ I'm a backend developer focused on building **asynchronous Python services**, **
 ![Logging](https://img.shields.io/badge/Logging-4B8BBE?style=for-the-badge&logo=logstash&logoColor=white)
 ![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
 ### 🖥️ Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,6 +44,8 @@ I'm a backend developer focused on building **asynchronous Python services**, **
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfqx&layout=compact&theme=dark)
 
+---
+
 ## 🧰 Projects
 
 ### 🤖 Commercial Telegram Bot (hh.ru integration)
@@ -56,4 +57,6 @@ I'm a backend developer focused on building **asynchronous Python services**, **
 
 ---
 
-Thanks for visiting! 🚀
+### 📬 Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ppppppolya)
