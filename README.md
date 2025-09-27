@@ -1,6 +1,6 @@
-# 👋 Welcome to My GitHub
+# 👋 asfqx
 
-Hi! I'm a backend developer focused on building **asynchronous Python services**, **Telegram bots**, and **external API integrations**. My portfolio includes both academic and commercial projects with a strong emphasis on clean architecture, automation, and reliability.
+I'm a backend developer focused on building **asynchronous Python services**, **Telegram bots**, and **external API integrations**. My portfolio includes both academic and commercial projects with a strong emphasis on clean architecture, automation, and reliability.
 
 ---
 
@@ -41,13 +41,9 @@ Hi! I'm a backend developer focused on building **asynchronous Python services**
   
 ---
 
-## 🚀 Featured Projects
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asfqx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfqx&layout=compact&theme=radical)
 
-### 🛤️ Metro Simulation System
-REST + WebSocket service simulating a metro transportation network:
-- Lines, stations, trains, and passenger interactions
-- Real-time state updates
-- PostgreSQL + SQLAlchemy backend
 
 ### 🤖 Commercial Telegram Bot (hh.ru integration)
 - Search and filter resumes from hh.ru
