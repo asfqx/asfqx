@@ -7,38 +7,37 @@ I'm a backend developer focused on building **asynchronous Python services**, **
 ## 🧰 Technologies I Work With
 
 ### 🖥️ Backend & API
-- **Python 3.10+**
+
 ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![httpx](https://img.shields.io/badge/httpx-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3D9BCD?style=for-the-badge&logo=oauth&logoColor=white)
 
 ### 🗄️ Databases & Caching
-- **PostgreSQL** – relational database (used with async access)
-- **SQLAlchemy 2.0** – modern declarative ORM
-- **asyncpg** – fast PostgreSQL driver
-- **Redis** – for caching, session storage, and pub/sub messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![asyncpg](https://img.shields.io/badge/asyncpg-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 📦 DevOps & Tooling
-- **Docker** – containerized environments for local and production use
-- **.env / Environment Variables** – secure and configurable runtime settings
-- **Ruff** – blazing fast Python linter and code formatter
-- **Logging** – detailed and structured logs for debugging and monitoring
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![dotenv](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
+![Ruff](https://img.shields.io/badge/Ruff-FF6F61?style=for-the-badge&logo=ruff&logoColor=white)
+![Logging](https://img.shields.io/badge/Logging-4B8BBE?style=for-the-badge&logo=logstash&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 📄 Formats & Integrations
-- **OAuth2** – authentication and data access with external services
-- **openpyxl** – Excel export with formatted resume data
 
 ### 🖥️ Frontend
 
-- **HTML5** — semantic page markup.
-- **CSS3** — styling, responsive layout, flexbox for building grids.
-- **Flexbox** — used for building flexible and adaptive layouts, aligning and distributing space between elements.
-- **BEM (Block-Element-Modifier)** — a CSS methodology that ensures code readability, scalability, and reusability.
-- **Normalize.css** — CSS reset and normalization for cross-browser compatibility.
-- **JavaScript**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=csswizardry&logoColor=white)
+![Normalize.css](https://img.shields.io/badge/Normalize.css-ECD53F?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 ---
 
