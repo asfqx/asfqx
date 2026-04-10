@@ -40,9 +40,11 @@ I'm a backend developer focused on building **asynchronous Python services**, **
   
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asfqx&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfqx&layout=compact&theme=dark&hide=C%2B%2B,C,Makefile,PlpgSQL,Shell)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
 
 ---
 
